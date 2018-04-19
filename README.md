@@ -1,2 +1,2 @@
 # tabberextension.github.io
-main site 
+Landing page for soon launching tabber extension
